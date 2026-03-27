@@ -20,6 +20,14 @@ This project analyzes inventory discrepancies such as missing, extra, and short 
 - Identified highest loss yard
 - Found distribution of missing vs extra vs short items
 
+## 📊 Dataset
+The dataset contains 3 sheets:
+- Sheet1: Inventory transactions
+- Sheet2: Status-wise classification (Missing, Extra, Short)
+- Sheet3: Final processed data used for dashboard
+
+Data was cleaned and transformed using Power BI.
+
 ## 📁 Files
 - PBIX dashboard file
 - PDF dashboard preview
